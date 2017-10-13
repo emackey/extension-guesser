@@ -1,0 +1,14 @@
+{
+  "name": "extension-guesser",
+  "version": "1.0.0",
+  "description": "Guess that file extension!",
+  "main": "extensionGuesser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emackey",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "yargs": "^9.0.1"
+  }
+}
